@@ -3,8 +3,8 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungjjeong&count_bg=%23FFC800&title_bg=%23928060&icon=smugmug.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
-  <h2> ✨ 프론트엔드 개발자로 나아가는 중...</h2>
-  깊이 있는 고민을 바탕으로 적극적인 자세를 가집니다.<br>
+  <h2> 성장하고 있는 개발자 </h2>
+  💛 Time for me to shine 💛 <br>
 
   <br>
   
