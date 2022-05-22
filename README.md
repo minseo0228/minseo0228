@@ -8,8 +8,8 @@
 
   <br>
   
-  <strong>🖥 BLOG | <a href="https://jungjjeong.github.io/">Jungjjeong Github.io</a></strong><br>
-  **📩 EMAIL | sky990106@naver.com**
+  <strong>🖥 BLOG | <a href="https://minseo0228.github.io/">minseo's Github.io</a></strong><br>
+  **📩 EMAIL 0228minseokim@gmail.com | **
 
   <br>
 
