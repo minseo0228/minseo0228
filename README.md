@@ -14,7 +14,7 @@
   <br>
 
   ![minseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseo0228&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sky990106)](https://solved.ac/sky990106)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimminseo228)](https://solved.ac/kimminseo228)
 
   <br>
 
