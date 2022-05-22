@@ -8,8 +8,8 @@
 
   <br>
   
-  <strong>🖥 BLOG | <a href="https://minseo0228.github.io/">minseo's Github.io</a></strong><br>
-  **📩 EMAIL 0228minseokim@gmail.com | **
+  <strong>🖥 BLOG | <a href="https://github.com/minseo0228">minseo's Github.io</a></strong><br>
+  📩 EMAIL 0228minseokim@gmail.com | 
 
   <br>
 
