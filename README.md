@@ -8,7 +8,7 @@
 
   <br>
   
-  <strong>🖥 BLOG | <a href="https://github.com/minseo0228">minseo's Github.io</a></strong><br>
+  <strong>🖥 notion | <a href="https://www.notion.so/83e2472a938046bf9f7efcd94ae0b4a7">minseo's Notion</a></strong><br>
   📩 EMAIL 0228minseokim@gmail.com | 
 
   <br>
