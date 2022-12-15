@@ -1,7 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=I'm%20Minseo!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&width=100%)
 <div align='center'>-->
-  <h1> 안녕하세요 김민서입니다 </h1>
-  <h2> 나 개발자 할 수 있어..?  </h2>
+  <h1> 안녕하세요 김민서입니다 😉</h1>
+  나 개발자 할 수 있어..?<br>
   열심히 공부 중입니다.....!! <br>
   <!--💛 Time for me to shine 💛 <br>-->
   <hr>
