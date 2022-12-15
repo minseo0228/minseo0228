@@ -1,12 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=I'm%20Minseo!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&width=100%)
-<div align='center'>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungjjeong&count_bg=%23FFC800&title_bg=%23928060&icon=smugmug.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=I'm%20Minseo!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&width=100%)
+<div align='center'>-->
+  <h1> 안녕하세요 김민서입니다 </h1>
   <h2> 나 개발자 할 수 있어..?  </h2>
-  💛 Time for me to shine 💛 <br>
-
-  <br>
+  열심히 공부 중입니다.....!! <br>
+  <!--💛 Time for me to shine 💛 <br>-->
   <hr>
   
   <strong>🖥 notion | <a href="https://hail-hydrangea-2de.notion.site/83e2472a938046bf9f7efcd94ae0b4a7">minseo's Notion</a></strong><br>
