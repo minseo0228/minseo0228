@@ -1,8 +1,8 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=I'm%20Minseo!&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62&width=100%)
 <div align='center'>-->
   <h1> 안녕하세요 김민서입니다 😉</h1>
-  나 개발자 할 수 있어..?<br>
   열심히 공부 중입니다.....!! <br>
+  클라우드를 통해서 누구나 서버를 만들고, 서버에 원하는 어플리케이션을 설치하여 사용할 수 있는 인프라 구축에 매력을 느껴 클라우드 컴퓨팅에 관심을 가지고 있습니다<br>
   <!--💛 Time for me to shine 💛 <br>-->
   <hr>
   
