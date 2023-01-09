@@ -2,7 +2,7 @@
 <div align='center'>-->
   <h1> 안녕하세요 김민서입니다 😉</h1>
   <!--💛 Time for me to shine 💛 <br>-->
-  <hr>
+  열심히 공부중 입니다!! 💪<hr>
   
   <strong>🖥 notion | <a href="https://hail-hydrangea-2de.notion.site/83e2472a938046bf9f7efcd94ae0b4a7">minseo's Notion</a></strong><br>
   📩 EMAIL | 0228minseokim@gmail.com  
