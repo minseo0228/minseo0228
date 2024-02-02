@@ -7,7 +7,7 @@
    💪<hr>
   
   <strong>🖥 notion | <a href="https://hail-hydrangea-2de.notion.site/83e2472a938046bf9f7efcd94ae0b4a7">minseo's Notion</a></strong><br>
-  📩 EMAIL | 0228minseokim@gmail.com  
+  <strong>📩 EMAIL | 0228minseokim@gmail.com  <strong>
   <br> 
   ### 📚 studying
   클라우드를 통해서 누구나 서버를 만들고, 서버에 원하는 어플리케이션을 설치하여 사용할 수 있는 인프라 구축에 매력을 느껴 클라우드 컴퓨팅에 관심을 가지고 있습니다.
