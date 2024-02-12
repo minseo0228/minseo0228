@@ -2,9 +2,7 @@
 <div align='center'>-->
   <h1> 안녕하세요. 김민서입니다 </h1>
   
-  관심있는 분야에 스스로 찾아보고 공부하며 적용해보는것을 즐깁니다. 
-
-   💪<hr>
+  관심있는 분야에 스스로 찾아보고 공부하며 적용해보는것을 즐깁니다. 💪<hr>
   
   <strong>🖥 notion | <a href="https://hail-hydrangea-2de.notion.site/83e2472a938046bf9f7efcd94ae0b4a7">minseo's Notion</a></strong><br>
   <strong>📩 EMAIL | 0228minseokim@gmail.com  <strong>
